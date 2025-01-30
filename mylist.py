@@ -1,0 +1,11 @@
+##mylist=[1,5,"A",66,1,0]
+##a=mylist.count(4)
+##print(a)
+##b=mylist.sort()
+##print(b)
+##thislist=["cake","apple","banana"]
+##thislist.sort(reverse=True)
+##print(thislist)
+l=["A",-20,"a",94,66]
+l.sort()
+print(l)
